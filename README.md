@@ -1,4 +1,4 @@
-# CSS 436 Cloud Computing Final Project
+# Map Notes
 
 #### Authors: Jay, Jaeha, Mehak, Duncan
 
